@@ -29,18 +29,7 @@ const skills = {
     learning: ["Docker", "Web Development", "Networks"]
 };
 ```
- 
-## 📊 Statistiques GitHub
- 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=me-mathix&show_icons=true&theme=tokyonight)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-mathix&layout=compact&theme=tokyonight)
-  
-</div>
- 
-## 🎯 Objectifs 2025
+## 🎯 Objectifs 2026/27
  
 - [-] Terminer le Common Core
 - [ ] Contribuer à des projets Open Source
