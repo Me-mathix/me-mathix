@@ -1,5 +1,3 @@
-# 👋 Salut, je suis [Ton Nom] !
- 
 <div align="center">
   
   ![42 School](https://img.shields.io/badge/42-Paris-000000?style=for-the-badge&logo=42&logoColor=white)
